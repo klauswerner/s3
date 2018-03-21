@@ -34,8 +34,13 @@ body {
     text-align: center;
 }
 .author img {
+    border: 5px solid white;
+    border-radius: 50%;
+    margin-top: -50px;
 }
 .author p {
+    font-size: 0.9em;
+    font-style: italic;
 }
 
 .article {
@@ -60,6 +65,7 @@ body {
 a:link, a:visited {
 }
 .gray, .gray a:link, .gray a:visited {
+    color: grey;
 }
 .white, .white a:link, .white a:visited {
     color: white;
