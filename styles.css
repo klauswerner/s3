@@ -18,7 +18,7 @@ body {
 #header h2 {
     font-size: 4em; /*4x höher als standard*/
     margin: 0;
-    padding: 1em 0; /* oben,rechts,unten,links; bei 2: oben,unten */
+    padding: 1em 0; /* oben,rechts,unten,links; bei 2: oben/unten gleich und rechts/links */
 }
 #header h3 {
     font-size: 3em;
@@ -63,10 +63,13 @@ body {
 }
 
 #footer {
+    padding: 1em 0 3em 0;
 }
 #footer .back {
+    float: left;
 }
 #footer .next {
+    float: right;
 }
 
 a:link, a:visited {
