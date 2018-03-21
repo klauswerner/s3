@@ -13,7 +13,7 @@ body {
 #header {
     text-align: center;
     background-color: aqua;
-    background-image: url('images/header.jpg'); /* header.jpg auf Lake Gunn tauschen */
+    background-image: url('images/header.jpg'); /* header.jpg auf Lake Gunn tauschen; https://pixabay.com/ */
 
 }
 #header h2 {
