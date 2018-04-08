@@ -13,7 +13,7 @@ body {
 #header {
     text-align: center;
     background-color: aqua;
-    background-image: url('images/header.jpg'); /* header.jpg auf Lake Gunn tauschen; https://pixabay.com/ */
+    background-image: url('images/header.jpg'); /* Quelle: http://www.doc.govt.nz/pagefiles/63488/lake-gunn-hero.jpg */
 
 }
 #header h2 {
